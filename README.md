@@ -201,7 +201,7 @@ I have been mindful during coding to ensure that the website is as accessible fr
 * Choosing a sans serif font for the site - these fonts are suitable for people with dyslexia.
 * Ensuring that there is a sufficient colour contrast throughout the site.
 
-![contrast button](documentation/contrast-btn.png) ![Contrast button hover](documentation/contrast-btn-hover.png) ![contrast text](documentation/contrast-text.png)
+![contrast button]() ![Contrast button hover](documentation/contrast-btn-hover.png) ![contrast text](documentation/contrast-text.png)
 
 As the site relies on colour to display to the user whether an answer is correct or incorrect, I was interested to see what this would look like for someone with red/green colour blindness. I used the chrome extension [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) to be able to see what someone with red/green colour blindness would see.
 
